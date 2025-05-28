@@ -34,7 +34,7 @@ Construir uma base sólida em programação e engenharia de dados, criando solu�
 ## 📬 Contato
 
 - 📧 Email: rique01.hen05@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/henrique-antunes-ibiapino-7701b527b/
+- 💼 LinkedIn: www.linkedin.com/in/henrique-antunes-ibiapino
 - 🗂 GitHub: https://github.com/HAntunes0105
 
 ---
