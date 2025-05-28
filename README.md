@@ -12,7 +12,7 @@ Construir uma base sólida em programação e engenharia de dados, criando solu�
 
 ## 📚 Formação e Estudos Atuais
 
-- 🎓 Curso de Python (básico ao avançado) — FATEC Jundiaí
+- 🎓 Curso de Python Intermediario — FATEC Jundiaí
 - 🧠 Curso de Programação em Python — SENAI (com foco em:
   - Lógica e boas práticas
   - Desenvolvimento de jogos 2D
